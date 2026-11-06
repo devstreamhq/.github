@@ -1,0 +1,17 @@
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Ask away. If it's about a submission, the bot's comment on your issue usually says why, so link it here and we'll take it from there.
+  - type: textarea
+    id: question
+    attributes:
+      label: Your question
+    validations:
+      required: true
+  - type: input
+    id: link
+    attributes:
+      label: Related issue, entry or page
+      description: Optional. A link helps us answer faster.
+      placeholder: https://github.com/devstreamhq/devstream/issues/123
