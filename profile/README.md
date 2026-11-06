@@ -7,7 +7,7 @@
 
 Awesome lists rot, and stars only remember who got excited once. DevStream is a list of GitHub repos that checks itself. Every entry has to pass a quality bar to get in and a weekly health check to stay in, and the order comes from Likes by real developers.
 
-Got a repo people should know about? [Submit it](https://github.com/devstreamhq/devstream/issues/new?template=submit-repo.yml) and a bot will have an answer for you.
+Got a repo people should know about? [Submit it](https://github.com/devstreamhq/devstream/issues/new?template=submit-repo.yml), and within minutes a bot tells you whether it made the list and, if it didn't, exactly why.
 
 - [The leaderboard](https://devstream.jamesconway.dev)
 - [The repo](https://github.com/devstreamhq/devstream)

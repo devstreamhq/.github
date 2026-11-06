@@ -1,0 +1,19 @@
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Got an idea for DevStream? A new category, a different rule, something the site should do? Tell us what's bugging you and what would fix it.
+  - type: textarea
+    id: problem
+    attributes:
+      label: What's the itch?
+      description: What are you trying to do, and what gets in the way today?
+    validations:
+      required: true
+  - type: textarea
+    id: idea
+    attributes:
+      label: What would you change?
+      description: Rough is fine. We'll shape it together in the replies.
+    validations:
+      required: true
